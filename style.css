@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/02/20/10/42/360_F_220104289_LsRMRAX5azO9D1Otfyoz0eTTihKKutj5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: 80px;
+}
+
+#container{
+    background: #706c6c;
+    border: 15px double white;
+    width: 450px;
+    height: 500px;
+    margin: 0px 500px 0 450px ;
+    padding:50px
+}
+
+.header{
+    background-color: #665ad1;
+    border: 2px solid black;
+}
+
+.product{
+    padding: 10px 30px 0px 30px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.tax{
+    padding:20px 30px 20px 30px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: #f80808; /* Green */
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    
+}
+
+.final{
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.product input{
+    width: 200px;
+    height: 30px;
+}
+
+.tax input{
+    width: 200px;
+    height: 30px;
+}
